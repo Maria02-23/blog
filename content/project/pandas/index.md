@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Внешний курс Степик
+date: 2024-11-30
+external_link: https://github.com/Maria02-23/StepikReport
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Отчёты и скриншоты с прохождением внешнего курса
 
 <!--more-->
