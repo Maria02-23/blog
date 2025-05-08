@@ -1,5 +1,5 @@
 ---
-title: PyTorch
+title: Sepic-infosec
 date: 2023-10-26
 external_link: https://github.com/Maria02-23/StepikReport-infosec
 tags:
