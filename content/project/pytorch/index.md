@@ -1,6 +1,6 @@
 ---
 title: Sepic-infosec
-date: 2023-10-26
+date: 2025-05-10
 external_link: https://github.com/Maria02-23/StepikReport-infosec
 tags:
   - Hugo
